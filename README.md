@@ -1,5 +1,5 @@
 # Dep_Order_Hindi
-Determining distance and order of constitutents from psycholinguistic factors
+Determining distance and order of constitutents from psycholinguistic factors. Supplementary code for the paper accepted in CMCL 2020
 
 # Data 
 
