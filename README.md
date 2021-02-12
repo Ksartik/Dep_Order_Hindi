@@ -7,7 +7,7 @@ Determining distance and order of constitutents from psycholinguistic factors. S
 
 2. To get the animacy annotations of the nouns, we extracted the annotated nouns collected in the data used in this [work](https://www.aclweb.org/anthology/W13-2320/). 
 
-3. We use the pre-trained word2vec models to calculate semantic similarity. These are available [here](https://www.aclweb.org/anthology/W13-2320/).
+3. We use the pre-trained word2vec models to calculate semantic similarity. These are available [here](https://fasttext.cc/docs/en/crawl-vectors.html).
 
 # Code organization 
 
